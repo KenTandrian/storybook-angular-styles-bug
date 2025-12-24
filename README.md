@@ -2,6 +2,8 @@
 
 This repository is a minimal reproducible example for a bug encountered with Nx Angular Storybook regarding global stylesheet loading in the development server.
 
+> **Update (December 2025):** This issue has been resolved in Nx 22, which includes Angular 21 and Storybook 10. The fix is available in the `bugfix` branch.
+
 **Issue Reported:** 
 * https://github.com/nrwl/nx/issues/32097
 
